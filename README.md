@@ -83,11 +83,11 @@ Technologies used: HTML, CSS, JavaScript <br>
 Technologies used: HTML, CSS<br>
 <br>
 
-Hackathons
+Collaborated on:
 ---
-
-["The Chain”](https://github.com/CraigThomasson/team-5-music-game-) - _Music Heroes_ Hackathon organised by Code Institute, November 2022
-
+__Code Institute Hackathons__
+["The Chain”](https://github.com/CraigThomasson/team-5-music-game-) - _Music Heroes_ - November 2022
+["Judgement Day"](https://github.com/stephendawsondev/j-day) - _Retro Quest_ - August 2023 A shooting game inspired by the 80's classic movie, Terminator, featuring Sarah Connor, Terminator and some other evil robots. Build with JavaScript library, Kaboom.js.
 
 My stats:
 ---
