@@ -1,25 +1,19 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**Koko-66/koko-66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <img src="eyes.png" alt="banner">
 
 ### Welcome to my GitHub page! 👋 
 
-I'm an aspiring web developer, looking for collaboraton on projects that would allow me utilise and hone my skills and learn new things.<br>
-*__So, if you know of a project with which I could help, get in touch!__*
+I'm a tech enthusiast, addicted to learning and needing cosntant challenge.<br>
+
+A brief summary: 
+- 🔭 I’m currently working on:
+    -  building a set of tools to automate file-manangement tasks at work;
+    -  my portfolio site;
+- 🌱 I’m currently learning:
+    - DevOps with AICore, including Docker, Kubernetes, Azure technologies and Terraform;
+    - more about ML and AI
+- In the future I want:
+  -  to build a badge scanning and lead tracking app
+  -  to apply AI to automate more tasks at work
   
 ---
 <br>
@@ -56,6 +50,9 @@ What I am currently learning
 --
 <p>
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=for-the-badge" alt="Docker">
+<img src="https://img.shields.io/badge/-Kubernetes-3371e3?logo=Docker&logoColor=white&style=for-the-badge" alt="Kubernetes">
+<img src="https://img.shields.io/badge/-Terraform-7b42bc?logo=Docker&logoColor=white&style=for-the-badge" alt="Terraform">
+<img src="https://img.shields.io/badge/-Azure-0067b8?logo=Docker&logoColor=white&style=for-the-badge" alt="Azure">
 <img src="https://img.shields.io/badge/-Pandas-150458?logo=Pandas&logoColor=white&style=for-the-badge" alt="Pandas">
 <img src="https://img.shields.io/badge/-Plotly-3F4F75?logo=Plotly&logoColor=white&style=for-the-badge" alt="Plotly">
 </p>
@@ -71,24 +68,30 @@ Coming soon... 💪 👏
 My projects
 --
 
-👕 [Green Bean](https://github.com/Koko-66/green_bean_shop) | E-commerce site for a fictitious sustainable T-shirt company.
-Technologies used: HTML, CSS with Bootstrap, JavaScript, Python, Django framework, PostgreSQL DB, Stripe API for payments, Cloudinary for hosting media (GitHub Repository)<br>
-📇 [Teaze](https://github.com/Koko-66/teaze) | An online app for quiz creation, management, and delivery. 
-Technologies used: HTML, CSS with Bootstrap, JavaScript, Python, Django framework, PostgreSQL DB, Cloudinary for hosting media<br>
-🌍 [Translate it!](https://github.com/Koko-66/Translate_it) | A translator-finder and quotation tool for your translation needs.
-Technologies used: HTML, CSS, Python<br>
-🐍 [Snakes & Ladders](https://github.com/Koko-66/snakes-and-ladders) | An online version of a popular board game.
-Technologies used: HTML, CSS, JavaScript <br>
-🏠 [Domus Mea Finance](https://github.com/Koko-66/Project1_Domus-mea-finance) | A website for a mortgage and insurance broker.
-Technologies used: HTML, CSS<br>
-<br>
+| Project Name | Description  | Technologies   |   
+|:---|:---|:---|
+| 👕 [Green Bean](https://github.com/Koko-66/green_bean_shop)  |  E-commerce site for a fictitious sustainable T-shirt company. |HTML, CSS with Bootstrap, JavaScript, Python, Django framework, PostgreSQL DB, Stripe API for payments, Cloudinary for hosting media (GitHub Repository)   |
+| 📇 [Teaze](https://github.com/Koko-66/teaze)   | An online app for quiz creation, management, and delivery.  | HTML, CSS with Bootstrap, JavaScript, Python, Django framework, PostgreSQL DB, Cloudinary for hosting media  | 
+| 🌍 [Translate it!](https://github.com/Koko-66/Translate_it)  | A translator-finder and quotation tool for your translation needs.  |  HTML, CSS, Python | 
+| 🐍 [Snakes & Ladders](https://github.com/Koko-66/snakes-and-ladders)  |  An online version of a popular board game. | HTML, CSS, JavaScript   | 
+| 🏠 [Domus Mea Finance](https://github.com/Koko-66/Project1_Domus-mea-finance)  | A website for a mortgage and insurance broker.  |  HTML, CSS | 
+|  [Subs converter](https://github.com/Koko-66/subs-converter) | A small program that converts subtitle files into an Excel file with function checking the string length for internal company use. | Python  | 
+|  [File renamer](https://github.com/Koko-66/file_renamer/) | Work in progress: a Python script to rename the files according to data in Excel. Part of larger project automation process for internal company use. | Python  | 
+
+-------------------
+
 
 Collaborated on:
 ---
-__Code Institute Hackathons__
 
-["The Chain”](https://github.com/CraigThomasson/team-5-music-game-) - _Music Heroes_ - November 2022<br>
-["Judgement Day"](https://github.com/stephendawsondev/j-day) - _Retro Quest_ - August 2023 A shooting game inspired by the 80's classic movie, Terminator, featuring Sarah Connor, Terminator and some other evil robots. Build with JavaScript library, Kaboom.js.
+| Project Name | Description  | Additional info | Technologies   |   
+|:---|:---|:---|:---|
+| ["The Chain”](https://github.com/CraigThomasson/team-5-music-game-)  | A mini game to help learn and recognise music sounds | _Music Heroes_ Code Institute Hackathon - November 2022 | HTML, CSS, Bootstrap, JavaScript  | 
+|  ["Judgement Day"](https://github.com/stephendawsondev/j-day) | A shooting game inspired by the 80's classic movie, Terminator, featuring Sarah Connor, Terminator and some other evil robots. Won third place!| [_Retro Quest_ Code Institute - August 2023](https://hackathon.codeinstitute.net/showcase/138/)   | JavaScript library, Kaboom.js  | 
+| ["The Mindful Gents"](https://github.com/rinalds98/mindful-gents)   | A webstie to support men with mental health, where they can find information and chat anynomusly with an expert | _Movember_ Code Institue - November 2023 | Django, websockets, JavaScript, HTML, CSS |
+|  |   |  |    |   
+
+
 
 My stats:
 ---
