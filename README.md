@@ -70,7 +70,7 @@ My projects
 
 | Project Name | Description  | Technologies   |   
 |:---|:---|:---|
-| 👕 [Green Bean](https://github.com/Koko-66/green_bean_shop)  |  E-commerce site for a fictitious sustainable T-shirt company. |HTML, CSS with Bootstrap, JavaScript, Python, Django framework, PostgreSQL DB, Stripe API for payments, Cloudinary for hosting media (GitHub Repository)   |
+| 👕 [Green Bean](https://github.com/Koko-66/green_bean_shop)  |  E-commerce site for a fictitious sustainable T-shirt company. |HTML, CSS with Bootstrap, JavaScript, Python, Django framework, PostgreSQL DB, Stripe API for payments, Cloudinary for hosting media  |
 | 📇 [Teaze](https://github.com/Koko-66/teaze)   | An online app for quiz creation, management, and delivery.  | HTML, CSS with Bootstrap, JavaScript, Python, Django framework, PostgreSQL DB, Cloudinary for hosting media  | 
 | 🌍 [Translate it!](https://github.com/Koko-66/Translate_it)  | A translator-finder and quotation tool for your translation needs.  |  HTML, CSS, Python | 
 | 🐍 [Snakes & Ladders](https://github.com/Koko-66/snakes-and-ladders)  |  An online version of a popular board game. | HTML, CSS, JavaScript   | 
