@@ -8,7 +8,6 @@ A brief summary:
 - 🔭 I’m currently working on:
     -  building a set of tools to automate file-manangement tasks at work;
     -  my portfolio site;
-    -  learning DevOps
 - 🌱 I’m currently learning:
     - DevOps with AICore, including Docker, Kubernetes, Azure technologies and Terraform;
     - more about ML and AI
