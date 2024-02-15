@@ -70,6 +70,7 @@ My projects
 
 | Project Name | Description  | Technologies   |   
 |:---|:---|:---|
+|  [Web App DevOps](https://github.com/Koko-66/Web-App-DevOps-Project) | A full CI/CD pipeline for deploying a Flask web app. | Docker, Kubernetes, Terraform, Azure Server, AKS, Azure DevOps, GitHub, Git |
 | 👕 [Green Bean](https://github.com/Koko-66/green_bean_shop)  |  E-commerce site for a fictitious sustainable T-shirt company. |HTML, CSS with Bootstrap, JavaScript, Python, Django framework, PostgreSQL DB, Stripe API for payments, Cloudinary for hosting media  |
 | 📇 [Teaze](https://github.com/Koko-66/teaze)   | An online app for quiz creation, management, and delivery.  | HTML, CSS with Bootstrap, JavaScript, Python, Django framework, PostgreSQL DB, Cloudinary for hosting media  | 
 | 🌍 [Translate it!](https://github.com/Koko-66/Translate_it)  | A translator-finder and quotation tool for your translation needs.  |  HTML, CSS, Python | 
