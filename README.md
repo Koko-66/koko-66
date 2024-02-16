@@ -7,13 +7,13 @@ I'm a tech enthusiast, addicted to learning and needing constant challenge.<br>
 A brief summary: 
 - 🔭 I’m currently working on:
     -  building a set of tools to automate file-manangement tasks at work;
-    -  my portfolio site;
 - 🌱 I’m currently learning:
-    - DevOps with AICore, including Docker, Kubernetes, Azure technologies and Terraform;
+    - DevOps, Docker, Kubernetes, Azure technologies and Terraform;
     - more about ML and AI
-- In the future I want:
-  -  to build a badge scanning and lead tracking app
-  -  to apply AI to automate more tasks at work
+    - Kivy
+- In the future I want to:
+  -  finally go through 'Raspberry Pi Projects for the Evil Genius' and build something cool
+  -  apply AI to automate more tasks at work
   
 ---
 <br>
